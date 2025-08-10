@@ -3,12 +3,18 @@
 	<img alt="GitHub User's stars" src="https://img.shields.io/github/stars/kolakivy">
 	<img alt="GitHub followers" src="https://img.shields.io/github/followers/kolakivy">
 <br>
-<a href="https://kolakivy.github.io/" target="_blank" style="margin-top: 100px"><img src="assets/school.png" height="150px" style="margin-bottom:-1px"></a>
+
+<!-- First image -->
+<a href="https://kolakivy.github.io/" target="_blank"><img src="assets/school.png" height="150px" style="margin-bottom:20px"></a>
+<br>
+<!-- Second image -->
+<a href="(https://kolakivy.github.io/)" target="_blank"><img src="assets/fencing.png" height="150px"></a>
+
 </h1>
 
 ---
 
-## 🌟 About Me
+## 🧬️ About Me
 Hello! I’m **Qiwei Liang (梁棋炜)**, a undergraduate student majoring in Robotics Engineering at Shenzhen University, expected to graduate in July 2026. Currently, I am conducting research at the Humanoid Computing Lab, HKUST(gz), under the supervision of [Renjing Xu](https://scholar.google.com/citations?user=Mu__bJEAAAAJ&hl=en). 
 
 Before diving into research, I was an IoT enthusiast dedicated to developing IoT products with the goal of improving people’s lives. I was also the **national champion of the China Collegiate IoT Design Competition** (物联网竞赛全国总冠军).
@@ -17,7 +23,7 @@ My research interests lie in Embodied AI, particularly in **Robotic Manipulation
 
 ---
 
-## 🚀 Publications
+## 📑 Publications
 **First / Co-first Author25**
 - **(ESWA 一区Top)** STAR: Empowering Semi-Supervised Medical Image Segmentation with SAM-based Teacher-Student Architecture and Contrastive Consistency Regularization, [paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417425022699)
 - **(UR)** Video2Reward++: Advancing Robot Skill Acquisition via Video-guided Reward Generation

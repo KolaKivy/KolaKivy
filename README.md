@@ -4,12 +4,9 @@
 	<img alt="GitHub followers" src="https://img.shields.io/github/followers/kolakivy">
 <br>
 
-<!-- First image -->
-<a href="https://kolakivy.github.io/" target="_blank"><img src="assets/school.png" height="150px" style="margin-bottom:20px"></a>
+<a href="(https://kolakivy.github.io/)" target="_blank"><img src="assets/rainbow.png" width="640px"></a>
 <br>
-<!-- Second image -->
-<a href="(https://kolakivy.github.io/)" target="_blank"><img src="assets/fencing.png" height="150px"></a>
-
+<a href="https://kolakivy.github.io/" target="_blank"><img src="assets/school.png" height="80px" style="margin-bottom:20px"></a>
 </h1>
 
 ---

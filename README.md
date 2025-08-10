@@ -4,9 +4,9 @@
 	<img alt="GitHub followers" src="https://img.shields.io/github/followers/kolakivy">
 <br>
 
-<a href="(https://kolakivy.github.io/)" target="_blank"><img src="assets/rainbow.png" width="640px"></a>
+<a href="(https://kolakivy.github.io/)" target="_blank"><img src="assets/rainbow.png" width="720px"></a>
 <br>
-<a href="https://kolakivy.github.io/" target="_blank"><img src="assets/school.png" height="80px" style="margin-bottom:20px"></a>
+<a href="https://kolakivy.github.io/" target="_blank"><img src="assets/school.png" height="70px" style="margin-bottom:20px"></a>
 </h1>
 
 ---
@@ -25,7 +25,7 @@ My research interests lie in Embodied AI, particularly in **Robotic Manipulation
 - **(ESWA 一区Top)** STAR: Empowering Semi-Supervised Medical Image Segmentation with SAM-based Teacher-Student Architecture and Contrastive Consistency Regularization, [paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417425022699)
 - **(UR)** Video2Reward++: Advancing Robot Skill Acquisition via Video-guided Reward Generation
 - **(CINT 2024)** iKnowiSee: AR Glasses with Language Learning Translation System and Identity Recognition System Built Based on Large Pre-trained Models of Language and Vision and Internet of Things Technology, [[paper]](https://link.springer.com/chapter/10.1007/978-981-97-3948-6_2)
-- **(arxiv 2025)**Whole-Body Coordination for Dynamic Object Grasping with Legged Manipulators, [[webpage]](https://kolakivy.github.io/DQ/)
+- **(arxiv 2025)** Whole-Body Coordination for Dynamic Object Grasping with Legged Manipulators, [[webpage]](https://kolakivy.github.io/DQ/)
 
 **Co-Author**
 - **(ECAI 2024)** Video2Reward: Generating Reward Function from Videos for Legged Robot Behavior Learning, [[paper]](https://arxiv.org/abs/2412.05515), [[webpage]](https://djjiery.github.io/Video2Reward.github.io/)

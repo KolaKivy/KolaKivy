@@ -6,15 +6,6 @@
     <td valign="middle">
       <h1 style="margin:0">Hi 👋, I'm <span style="color:#ff6b6b">Qiwei Liang</span> (梁棋炜)</h1>
       <h3 style="margin-top:6px;color:#6c7ae0">🤖 Robotics | 🧠 AI | 🖼️ Medical Image Segmentation</h3>
-
-      <p>
-        <img src="https://komarev.com/ghpvc/?username=KolaKivy&label=Profile%20views&color=0e75b6&style=flat" alt="views" />
-        <img src="https://img.shields.io/badge/School-Shenzhen%20University-11a8fd?style=flat-square&logo=education" alt="school" />
-        <img src="https://img.shields.io/badge/HKUST(gz)-Humanoid%20Computing%20Lab-8a2be2?style=flat-square" alt="lab" />
-      </p>
-
-      <!-- Typing effect（动态文字） -->
-      <img src="https://readme-typing-svg.demolab.com?font=Fira%20Code&size=20&pause=2000&color=0e75b6&width=650&lines=Senior+Undergraduate+in+Robotics+Engineering;Research+Intern+at+Humanoid+Computing+Lab%2C+HKUST(gz)" alt="typing" />
     </td>
   </tr>
 </table>

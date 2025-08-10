@@ -37,17 +37,17 @@ My research interests lie in Embodied AI, particularly in Robotic Manipulation (
 
 ## 🚀 Publications
 **First / Co-first Author25**
-- <p style="color: #5409e1ff;">(ESWA 一区Top)</p>**STAR: Empowering Semi-Supervised Medical Image Segmentation with SAM-based Teacher-Student Architecture and Contrastive Consistency Regularization**, [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S0957417425022699)
-- <p style="color: #5409e1ff;">(UR)</p>**Video2Reward++: Advancing Robot Skill Acquisition via Video-guided Reward Generation**
-- <p style="color: #5409e1ff;">(ECAI 2024)</p>**Video2Reward: Generating Reward Function from Videos for Legged Robot Behavior Learning**, [[paper]](https://arxiv.org/abs/2412.05515), [[webpage]](https://djjiery.github.io/Video2Reward.github.io/)
-- <p style="color: #5409e1ff;">(CINT 2024)</p>**iKnowiSee: AR Glasses with Language Learning Translation System and Identity Recognition System Built Based on Large Pre-trained Models of Language and Vision and Internet of Things Technology**, [[paper]](https://link.springer.com/chapter/10.1007/978-981-97-3948-6_2)
-- <p style="color: #5409e1ff;">(arxiv 2025)</p>**Whole-Body Coordination for Dynamic Object Grasping with Legged Manipulators**, [[webpage]](https://kolakivy.github.io/DQ/)
+- <span style="color: #5409e1;">(ESWA 一区Top)</span> **STAR: Empowering Semi-Supervised Medical Image Segmentation with SAM-based Teacher-Student Architecture and Contrastive Consistency Regularization**, [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S0957417425022699)
+- <p style="color: #5409e1ff;">(UR)</p> **Video2Reward++: Advancing Robot Skill Acquisition via Video-guided Reward Generation**
+- <p style="color: #5409e1ff;">(ECAI 2024)</p> **Video2Reward: Generating Reward Function from Videos for Legged Robot Behavior Learning**, [[paper]](https://arxiv.org/abs/2412.05515), [[webpage]](https://djjiery.github.io/Video2Reward.github.io/)
+- <p style="color: #5409e1ff;">(CINT 2024)</p> **iKnowiSee: AR Glasses with Language Learning Translation System and Identity Recognition System Built Based on Large Pre-trained Models of Language and Vision and Internet of Things Technology**, [[paper]](https://link.springer.com/chapter/10.1007/978-981-97-3948-6_2)
+- <p style="color: #5409e1ff;">(arxiv 2025)</p> **Whole-Body Coordination for Dynamic Object Grasping with Legged Manipulators**, [[webpage]](https://kolakivy.github.io/DQ/)
 
 
 **Co-Author**
-- <p style="color: #5409e1ff;">(arxiv 2025)</p>**RoboTwin 2.0: Autonomous Data Generator and Benchmark with Strong Domain Randomization for Robust Bimanual Robotic Manipulation**, [[paper]](https://arxiv.org/abs/2506.18088), [[webpage]](https://robotwin-platform.github.io/)
-- <p style="color: #5409e1ff;">(arxiv 2025)</p>**FASR-Net: Unsupervised Shadow Removal Leveraging Inherent Frequency Priors**, [[paper]](https://arxiv.org/abs/2504.05779)
-- <p style="color: #5409e1ff;">(ICLR WS 2025)</p>**Text2World: Benchmarking Large Language Models for Symbolic World Model Generation**, [[paper]](https://openreview.net/pdf?id=dIQNOxuBay), [[webpage]](https://text-to-world.github.io/)
+- <p style="color: #5409e1ff;">(arxiv 2025)</p> **RoboTwin 2.0: Autonomous Data Generator and Benchmark with Strong Domain Randomization for Robust Bimanual Robotic Manipulation**, [[paper]](https://arxiv.org/abs/2506.18088), [[webpage]](https://robotwin-platform.github.io/)
+- <p style="color: #5409e1ff;">(arxiv 2025)</p> **FASR-Net: Unsupervised Shadow Removal Leveraging Inherent Frequency Priors**, [[paper]](https://arxiv.org/abs/2504.05779)
+- <p style="color: #5409e1ff;">(ICLR WS 2025)</p> **Text2World: Benchmarking Large Language Models for Symbolic World Model Generation**, [[paper]](https://openreview.net/pdf?id=dIQNOxuBay), [[webpage]](https://text-to-world.github.io/)
 
 ---
 

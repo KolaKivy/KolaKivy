@@ -1,11 +1,20 @@
-<table width="100%">
+<table width="100%" style="border-collapse: collapse; font-family: 'Segoe UI', Arial, sans-serif">
   <tr>
-    <td width="160" valign="middle">
-      <img src="./assets/school.png" alt="Shenzhen University" width="250" style="border-radius:12px; box-shadow: 0 8px 24px rgba(2,6,23,0.2)"/>
+    <td colspan="2" style="padding-bottom: 20px">
+      <h1 style="margin: 0; font-size: 2.5em; font-weight: 600; color: #2c3e50">Qiwei Liang <span style="color: #7f8c8d">(梁棋炜)</span></h1>
+      <p style="margin: 10px 0 0; font-size: 1.2em; font-style: italic; color: #3498db">"将具身送给老百姓，探索智慧最优解"</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="160" valign="middle" style="padding-right: 30px">
+      <img src="./assets/school.png" alt="Shenzhen University" width="250" style="border-radius:12px; box-shadow: 0 8px 24px rgba(46, 134, 222, 0.2); border: 1px solid #eee"/>
     </td>
     <td valign="middle">
-      <h1 style="margin:0">Hi 👋, I'm <span style="color:#ff6b6b">Qiwei Liang</span> (梁棋炜)</h1>
-      <h3 style="margin-top:6px;color:#6c7ae0">🤖 Robotics | 🧠 AI | 🖼️ Medical Image Segmentation</h3>
+      <h2 style="margin:0 0 10px; font-size: 1.8em; color: #2980b9">Hi there! 👋</h2>
+      <h3 style="margin:0; font-weight: 500; color: #16a085">🤖 Robotics | 🧠 AI | 🖼️ Medical Image Segmentation</h3>
+      <p style="margin: 15px 0 0; color: #7f8c8d; line-height: 1.5">
+        Passionate about intelligent systems and their applications to improve people's lives.
+      </p>
     </td>
   </tr>
 </table>
@@ -13,11 +22,11 @@
 ---
 
 ## 🌟 About Me
-Hello! I’m Qiwei Liang (梁棋炜), a senior undergraduate student majoring in Robotics Engineering at Shenzhen University, expected to graduate in July 2026. Currently, I am conducting research at the Humanoid Computing Lab, HKUST(gz), under the supervision of Renjing Xu. Previously, I conducted research at the Institute of Artificial Intelligence, Shenzhen MSU-BIT University, under the supervision of Runhao Zeng.
+Hello! I’m Qiwei Liang (梁棋炜), a senior undergraduate student majoring in Robotics Engineering at Shenzhen University, expected to graduate in July 2026. Currently, I am conducting research at the Humanoid Computing Lab, HKUST(gz), under the supervision of [Renjing Xu](https://scholar.google.com/citations?user=Mu__bJEAAAAJ&hl=en). 
 
-Before diving into research, I was an IoT enthusiast dedicated to developing IoT products with the goal of improving people’s lives. I was also the national champion, of the China Collegiate IoT Design Competition.
+Before diving into research, I was an IoT enthusiast dedicated to developing IoT products with the goal of improving people’s lives. I was also the **national champion of the China Collegiate IoT Design Competition** (物联网竞赛全国总冠军).
 
-My research interests lie in Embodied AI, particularly in Robotic Manipulation (VLA, VA, RL), Robot Learning, and Whole-Body Control. Fundamentally, my work revolves around infusing intelligence into machines. :contentReference[oaicite:1]{index=1}
+My research interests lie in Embodied AI, particularly in Robotic Manipulation (VLA, VA, RL), Robot Learning, and Whole-Body Control. Fundamentally, my work revolves around Exploring the Pinnacle of Wisdom.
 
 ---
 

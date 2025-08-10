@@ -1,28 +1,33 @@
-<table width="100%" style="border-collapse: collapse; font-family: 'Segoe UI', Arial, sans-serif">
-  <tr>
-    <td colspan="2" style="padding-bottom: 20px">
-      <h1 style="margin: 0; font-size: 2.5em; font-weight: 600; color: #2c3e50">Qiwei Liang <span style="color: #7f8c8d">(梁棋炜)</span></h1>
-      <p style="margin: 10px 0 0; font-size: 1.2em; font-style: italic; color: #3498db">"将具身送给老百姓，探索智慧最优解"</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="160" valign="middle" style="padding-right: 30px">
-      <img src="./assets/school.png" alt="Shenzhen University" width="250" style="border-radius:12px; box-shadow: 0 8px 24px rgba(46, 134, 222, 0.2); border: 1px solid #eee"/>
-    </td>
-    <td valign="middle">
-      <h2 style="margin:0 0 10px; font-size: 1.8em; color: #2980b9">Hi there! 👋</h2>
-      <h3 style="margin:0; font-weight: 500; color: #16a085">🤖 Robotics | 🧠 AI | 🖼️ Medical Image Segmentation</h3>
-      <p style="margin: 15px 0 0; color: #7f8c8d; line-height: 1.5">
-        Passionate about intelligent systems and their applications to improve people's lives.
+<div style="max-width: 900px; margin: 0 auto; padding: 30px; background: linear-gradient(to right, #f8f9fa, #ffffff); border-radius: 16px; box-shadow: 0 12px 36px rgba(0,0,0,0.08); font-family: 'Segoe UI', 'PingFang SC', sans-serif">
+  <!-- Name Section -->
+  <div style="margin-bottom: 30px; text-align: left">
+    <h1 style="margin: 0; font-size: 2.8em; font-weight: 700; color: #2c3e50; letter-spacing: -0.5px">Qiwei Liang <span style="color: #7f8c8d; font-weight: 400">(梁棋炜)</span></h1>
+    <p style="margin: 12px 0 0; font-size: 1.3em; font-style: italic; color: #3498db; font-weight: 500">"将具身送给老百姓，探索智慧最优解"</p>
+  </div>
+
+  <!-- Content Row -->
+  <div style="display: flex; align-items: center; gap: 40px">
+    <!-- Image Column -->
+    <div style="flex: 0 0 300px">
+      <img src="./assets/school.png" alt="Shenzhen University" style="width: 100%; border-radius: 14px; box-shadow: 0 10px 30px rgba(46, 134, 222, 0.15); border: 1px solid rgba(0,0,0,0.05)"/>
+    </div>
+    
+    <!-- Text Column -->
+    <div style="flex: 1">
+      <h2 style="margin:0 0 15px; font-size: 2em; color: #2980b9; font-weight: 600">Hello! 👋</h2>
+      <h3 style="margin:0 0 20px; font-size: 1.4em; font-weight: 500; color: #16a085">🤖 Robotics | 🧠 AI | 🖼️ Medical Image Segmentation</h3>
+      <p style="margin: 0; color: #5a6268; line-height: 1.6; font-size: 1.1em">
+        Passionate researcher developing intelligent systems to bridge technology and daily life. 
+        Currently exploring embodied intelligence solutions at Shenzhen University.
       </p>
-    </td>
-  </tr>
-</table>
+    </div>
+  </div>
+</div>
 
 ---
 
 ## 🌟 About Me
-Hello! I’m Qiwei Liang (梁棋炜), a senior undergraduate student majoring in Robotics Engineering at Shenzhen University, expected to graduate in July 2026. Currently, I am conducting research at the Humanoid Computing Lab, HKUST(gz), under the supervision of [Renjing Xu](https://scholar.google.com/citations?user=Mu__bJEAAAAJ&hl=en). 
+Hello! I’m Qiwei Liang (梁棋炜), a undergraduate student majoring in Robotics Engineering at Shenzhen University, expected to graduate in July 2026. Currently, I am conducting research at the Humanoid Computing Lab, HKUST(gz), under the supervision of [Renjing Xu](https://scholar.google.com/citations?user=Mu__bJEAAAAJ&hl=en). 
 
 Before diving into research, I was an IoT enthusiast dedicated to developing IoT products with the goal of improving people’s lives. I was also the **national champion of the China Collegiate IoT Design Competition** (物联网竞赛全国总冠军).
 
@@ -31,27 +36,18 @@ My research interests lie in Embodied AI, particularly in Robotic Manipulation (
 ---
 
 ## 🚀 Publications
-**2025**
-- WBC, (under review, Neurips 2025)  
-- Digital Twin, (under review, Neurips 2025)  
-- Mengkang Hu, Tianxing Chen, Yude Zou, Yuheng Lei, Qiguang Chen, Ming Li, Qiwei Liang, Yao Mu, Hongyuan Zhang, Wenqi Shao, Ping Luo, *Text2World: Benchmarking Large Language Models for Symbolic World Model Generation*, (ICLR W 2025). :contentReference[oaicite:2]{index=2}
+**First / Co-first Author25**
+- <p style="color: #5409e1ff;">(ESWA 一区Top)</p>**STAR: Empowering Semi-Supervised Medical Image Segmentation with SAM-based Teacher-Student Architecture and Contrastive Consistency Regularization**, [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S0957417425022699)
+- <p style="color: #5409e1ff;">(UR)</p>**Video2Reward++: Advancing Robot Skill Acquisition via Video-guided Reward Generation**
+- <p style="color: #5409e1ff;">(ECAI 2024)</p>**Video2Reward: Generating Reward Function from Videos for Legged Robot Behavior Learning**, [[paper]](https://arxiv.org/abs/2412.05515), [[webpage]](https://djjiery.github.io/Video2Reward.github.io/)
+- <p style="color: #5409e1ff;">(CINT 2024)</p>**iKnowiSee: AR Glasses with Language Learning Translation System and Identity Recognition System Built Based on Large Pre-trained Models of Language and Vision and Internet of Things Technology**, [[paper]](https://link.springer.com/chapter/10.1007/978-981-97-3948-6_2)
+- <p style="color: #5409e1ff;">(arxiv 2025)</p>**Whole-Body Coordination for Dynamic Object Grasping with Legged Manipulators**, [[webpage]](https://kolakivy.github.io/DQ/)
 
-**2024**
-- Qiwei Liang, Rulin Zhou, Yijing Zhou, Guankun Wang, Xiaopin Zhong, *STAR: Empowering Semi-Supervised Medical Image Segmentation with SAM-based Teacher-Student Architecture and Contrastive Consistency Regularization*, (ESWA).  
-- Changxin Huang, Qiwei Liang, Jingzhao Xu, Hui Li, Xiping Hu, Runhao Zeng, Victor C. M. Leung, Junfa Mao, Jianqiang Li, *Video2Reward++: Advancing Robot Skill Acquisition via Video-guided Reward Generation* (under review).  
-- Runhao Zeng, Dingjie Zhou, Qiwei Liang, Junlin Liu, Hui Li, Changxin Huang, Jianqiang Li, Xiping Hu, Fuchun Sun, *Video2Reward: Generating Reward Function from Videos for Legged Robot Behavior Learning* (ECAI 2024) (Spotlight).  
-- *FASR-Net: Unsupervised Shadow Removal Leveraging Inherent Frequency Priors* (under review).  
-- *iKnowiSee: AR Glasses with Language Learning Translation System ...* (CINT 2024). :contentReference[oaicite:3]{index=3}
 
----
-
-## 🏅 Awards & Scholarships
-- Second Prize in South China Region, National College Embedded Chip Design Competition, Vice Team Leader, 2024.  
-- Third Prize in South China Region, National College Intelligent Vehicle Competition, Vice Team Leader, 2024.  
-- **National Grand Champion**, National College IoT Design Competition, Ranked 1st out of 1,992 teams, Team leader, 2023.  
-- National First Prize, National College IoT Design Competition, Team leader, 2023.  
-- First Prize in South China Region, iCAN College Innovation and Entrepreneurship Competition, Team leader, 2023.  
-- Huawei Cup Grand Championship Prize (2023), Huawei Scholarship (2023) 等。 :contentReference[oaicite:4]{index=4}
+**Co-Author**
+- <p style="color: #5409e1ff;">(arxiv 2025)</p>**RoboTwin 2.0: Autonomous Data Generator and Benchmark with Strong Domain Randomization for Robust Bimanual Robotic Manipulation**, [[paper]](https://arxiv.org/abs/2506.18088), [[webpage]](https://robotwin-platform.github.io/)
+- <p style="color: #5409e1ff;">(arxiv 2025)</p>**FASR-Net: Unsupervised Shadow Removal Leveraging Inherent Frequency Priors**, [[paper]](https://arxiv.org/abs/2504.05779)
+- <p style="color: #5409e1ff;">(ICLR WS 2025)</p>**Text2World: Benchmarking Large Language Models for Symbolic World Model Generation**, [[paper]](https://openreview.net/pdf?id=dIQNOxuBay), [[webpage]](https://text-to-world.github.io/)
 
 ---
 

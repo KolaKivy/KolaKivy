@@ -1,7 +1,7 @@
 <table width="100%">
   <tr>
     <td width="160" valign="middle">
-      <img src="./assets/school.png" alt="Shenzhen University" width="140" style="border-radius:12px; box-shadow: 0 8px 24px rgba(2,6,23,0.2)"/>
+      <img src="./assets/school.png" alt="Shenzhen University" width="250" style="border-radius:12px; box-shadow: 0 8px 24px rgba(2,6,23,0.2)"/>
     </td>
     <td valign="middle">
       <h1 style="margin:0">Hi 👋, I'm <span style="color:#ff6b6b">Qiwei Liang</span> (梁棋炜)</h1>

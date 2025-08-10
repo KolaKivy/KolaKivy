@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi, I'm <a href="https://kolakivy.github.io/" target="_blank">Qiwei Liang (梁棋炜) 👋</a> <br>
+  Hi, I'm <a href="https://kolakivy.github.io/" target="_blank" style="color: purple;">Qiwei Liang (梁棋炜) 👋</a> <br>
 	<img alt="GitHub User's stars" src="https://img.shields.io/github/stars/kolakivy">
 	<img alt="GitHub followers" src="https://img.shields.io/github/followers/kolakivy">
 <br>

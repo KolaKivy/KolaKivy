@@ -69,6 +69,6 @@ My research interests lie in Embodied AI, particularly in Robotic Manipulation (
 ## 📫 Contact
 - ✉️ kola337599@gmail.com  
 - 🌐 Personal site: https://kolakivy.github.io/  
-- 📚 Google Scholar / Github / Xiaohongshu links are on my site. :contentReference[oaicite:5]{index=5}
+- 📚 Google Scholar / Github / Xiaohongshu links are on my website. 
 
 ---
